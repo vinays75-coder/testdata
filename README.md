@@ -20,7 +20,6 @@ SHARAMA @#$@#$@#$@#$@#$@#$@$#@$
 2342342342234
 
 env = {
-  NAME = "VINAY",
-  LASTNAME = "SHARMA"
+  NAME = "VINAY"
 }
 
